@@ -11,7 +11,7 @@ BLUE='\033[1;34m'
 NC='\033[0m' # No Color
 
 # Repository name :
-GITHUB_REPOSITORY=alvin-000/Onion
+GITHUB_REPOSITORY=dbhill/Onion
 
 # channel : stable or beta
 channel=$(cat "$sysdir/config/ota_channel" 2> /dev/null)
